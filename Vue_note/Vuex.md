@@ -32,5 +32,5 @@ Vue.use(Vuex)
 ![](img/Flux.png)
 
 ### vuex執行說明
-！[](img/vuex.png)
+![](img/vuex.png)
 
