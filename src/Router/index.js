@@ -10,8 +10,7 @@ const Router = () => {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/">Home</Route>
-        <Route path="/image">Image</Route>
+        <Route path="/"></Route>
         <Route element={<NotFound />}></Route>
       </Routes>
       <Footer />
